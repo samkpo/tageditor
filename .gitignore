@@ -1,0 +1,15 @@
+examples/
+build/
+Makefile
+ui_tageditor.h
+*.pro.user.*
+*.mp3
+debug/
+examples/
+html/
+latex/
+.directory
+main2.cpp
+*.pro.user
+toolbaredit.h
+taglib-1.6.3/
