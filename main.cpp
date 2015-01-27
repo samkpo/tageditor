@@ -1,3 +1,4 @@
+//Author: Aguilera Dario, dario_21_06@hotmail.com
 #include <QtGui>
 
 #include "tageditor.h"
